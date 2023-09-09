@@ -1,0 +1,71 @@
+---
+id: ecard2-118
+name: Apricorn Forest
+supertype: Trainer
+subtypes:
+- Stadium
+rules:
+- This card stays in play when you play it. Discard this card if another Stadium card
+  comes into play.
+- Once during each player's turn (before attacking), if that player's Bench isn't
+  full, that player flips a coin. If heads, that player shows his or her opponent
+  a basic Energy card from his or her hand. Then, that player searches his or her
+  deck for a Basic Pokémon card of the same type (color) as the revealed Energy card
+  and puts it onto his or her Bench. The player shuffles his or her deck afterward.
+set:
+  id: ecard2
+  name: Aquapolis
+  series: E-Card
+  printedTotal: 147
+  total: 182
+  legalities:
+    unlimited: Legal
+  ptcgoCode: AQ
+  releaseDate: 2003/01/15
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/ecard2/symbol.png
+    logo: https://images.pokemontcg.io/ecard2/logo.png
+number: '118'
+artist: Midori Harada
+rarity: Rare
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ecard2/118.png
+  large: https://images.pokemontcg.io/ecard2/118_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ecard2-118
+  updatedAt: 2023/09/09
+  prices:
+    normal:
+      low: 4.26
+      mid: 5.57
+      high: 8.99
+      market: 5.08
+      directLow: 
+    reverseHolofoil:
+      low: 4.23
+      mid: 5.76
+      high: 12.99
+      market: 5.14
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ecard2-118
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 2.17
+    lowPrice: 0.5
+    trendPrice: 2.01
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 1.99
+    reverseHoloTrend: 5.31
+    lowPriceExPlus: 1.5
+    avg1: 1.19
+    avg7: 1.8
+    avg30: 1.58
+    reverseHoloAvg1: 3.99
+    reverseHoloAvg7: 6.59
+    reverseHoloAvg30: 5.59

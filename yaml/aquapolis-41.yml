@@ -1,0 +1,96 @@
+---
+id: ecard2-41
+name: Umbreon
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '80'
+types:
+- Darkness
+evolvesFrom: Eevee
+abilities:
+- name: Dark Moon
+  text: As long as Umbreon is your Active Pokémon and has a Darkness Energy attached
+    to it, once during your turn (before your attack), you may look at your opponent's
+    hand. Choose from it a number of cards up to the number of Darkness Energy attached
+    to Umbreon and shuffle them into your opponent's deck. Your opponent then draws
+    the same number of cards from his or her deck. This power can't be used if Umbreon
+    is affected by a Special Condition.
+  type: Poké-Power
+attacks:
+- name: Shadow Bind
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '30'
+  text: The Defending Pokémon can't retreat during your opponent's next turn.
+weaknesses:
+- type: Fighting
+  value: "×2"
+resistances:
+- type: Psychic
+  value: "-30"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ecard2
+  name: Aquapolis
+  series: E-Card
+  printedTotal: 147
+  total: 182
+  legalities:
+    unlimited: Legal
+  ptcgoCode: AQ
+  releaseDate: 2003/01/15
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/ecard2/symbol.png
+    logo: https://images.pokemontcg.io/ecard2/logo.png
+number: '41'
+artist: Mitsuhiro Arita
+rarity: Rare
+nationalPokedexNumbers:
+- 197
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ecard2/41.png
+  large: https://images.pokemontcg.io/ecard2/41_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ecard2-41
+  updatedAt: 2023/09/09
+  prices:
+    normal:
+      low: 43.5
+      mid: 45.0
+      high: 61.0
+      market: 50.55
+      directLow: 
+    reverseHolofoil:
+      low: 73.9
+      mid: 89.49
+      high: 135.99
+      market: 119.5
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ecard2-41
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 29.2
+    lowPrice: 4.0
+    trendPrice: 21.54
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 9.99
+    reverseHoloTrend: 60.49
+    lowPriceExPlus: 15.0
+    avg1: 68.0
+    avg7: 26.17
+    avg30: 20.81
+    reverseHoloAvg1: 85.0
+    reverseHoloAvg7: 69.27
+    reverseHoloAvg30: 43.6

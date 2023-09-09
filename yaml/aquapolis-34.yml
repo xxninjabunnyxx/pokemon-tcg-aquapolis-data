@@ -1,0 +1,93 @@
+---
+id: ecard2-34
+name: Slowking
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '80'
+types:
+- Psychic
+evolvesFrom: Slowpoke
+attacks:
+- name: Bursting Hand
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: 10×
+  text: Look at your opponent's hand. This attack does 10 damage times the number
+    of Energy cards there.
+- name: Shuffle Attack
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '40'
+  text: Look at a number of cards on top of your opponent's deck equal to the number
+    of Energy cards attached to the Defending Pokémon. Put those cards in any order,
+    and then put them back on top of your opponent's deck.
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ecard2
+  name: Aquapolis
+  series: E-Card
+  printedTotal: 147
+  total: 182
+  legalities:
+    unlimited: Legal
+  ptcgoCode: AQ
+  releaseDate: 2003/01/15
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/ecard2/symbol.png
+    logo: https://images.pokemontcg.io/ecard2/logo.png
+number: '34'
+artist: Aya Kusube
+rarity: Rare
+nationalPokedexNumbers:
+- 199
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ecard2/34.png
+  large: https://images.pokemontcg.io/ecard2/34_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ecard2-34
+  updatedAt: 2023/09/09
+  prices:
+    normal:
+      low: 8.45
+      mid: 10.39
+      high: 19.95
+      market: 10.47
+      directLow: 
+    reverseHolofoil:
+      low: 13.74
+      mid: 17.0
+      high: 21.99
+      market: 19.96
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ecard2-34
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 2.41
+    lowPrice: 0.34
+    trendPrice: 1.48
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 4.49
+    reverseHoloLow: 1.2
+    reverseHoloTrend: 5.45
+    lowPriceExPlus: 1.8
+    avg1: 1.74
+    avg7: 1.48
+    avg30: 2.29
+    reverseHoloAvg1: 5.99
+    reverseHoloAvg7: 4.99
+    reverseHoloAvg30: 5.84
